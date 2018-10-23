@@ -1,0 +1,30 @@
+/* Tirar bordas */
+*{
+    margin: 0%;
+    background-color: #6D7993;
+}
+
+.menu{
+    background-color: #F4F4F4;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    position: fixed;
+    width: 100%;
+}
+
+.banner{
+    background-color: #C0B283;
+}
+
+li{
+    list-style: none;
+    margin-left: 10px;
+    color: #d5D5D5;
+    /* Trocar essa cor  */
+}
+
+.container{
+    display: flex;
+}
+
